@@ -66,5 +66,5 @@ print(chart1);
 
 func(raster);
 
-// When you create the chirt, at its right top there will be "Open in Another Window" button, when clicked expands it into another tab with choices of "Download as CSV" as well. 
+// When you create the chart, at its right top there will be "Open in Another Window" button, when clicked expands it into another tab with choices of "Download as CSV" as well. 
 // Through that you can download the data as a .csv file, as well as the chart as a PNG file in another button.
